@@ -9,16 +9,16 @@
 
 ## Andriod
 
-* [Andriod开发指南](https://github.com/TQmobile/TQ-mobile-guide/master/category/Android.md)
+* [Andriod开发指南](https://github.com/TQmobile/TQ-mobile-guide/blob/master/category/Android.md)
 
 ## IOS
 
-* [IOS开发指南](https://github.com/TQmobile/TQ-mobile-guide/master/category/IOS.md)
+* [IOS开发指南](https://github.com/TQmobile/TQ-mobile-guide/blob/master/category/IOS.md)
 
 ## React Native
 
-* [React Native开发指南](https://github.com/TQmobile/TQ-mobile-guide/master/category/React-native.md)
+* [React Native开发指南](https://github.com/TQmobile/TQ-mobile-guide/blob/master/category/React-native.md)
 
 ## ES6
 
-* [ES6开发指南](https://github.com/TQmobile/TQ-mobile-guide/master/category/ES6.md)
+* [ES6开发指南](https://github.com/TQmobile/TQ-mobile-guide/blob/master/category/ES6.md)
