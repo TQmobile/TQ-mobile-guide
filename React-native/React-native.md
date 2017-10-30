@@ -6,14 +6,35 @@
 * [工具](#工具)
 * [资源网站](#资源网站)
 
-### 教程
+## 教程
 
-### 开源APP
+* **官方英文网站**
+http://facebook.github.io/react-native
 
-### 图书
+* **中翻译官方网站**
+http://reactnative.cn
 
-### 组件
+* **GitHub上学习资料**
+https://github.com/reactnativecn/react-native-guide
 
-### 工具
+* **IDE选型指南**
+http://www.jianshu.com/p/6479c676bd01
 
-### 资源网站
+* **yarn和npm的区别**
+http://web.jobbole.com/88459
+
+## 开源APP
+
+## 图书
+
+## 组件
+
+* **RN第三方库大全**
+https://js.coach/react-native
+
+* **redux指南**
+http://cn.redux.js.org/docs/introduction/Ecosystem.html
+
+* **mobx指南**
+https://suprise.gitbooks.io/mobx-cn/content/fp.html
+
