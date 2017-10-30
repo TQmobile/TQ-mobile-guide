@@ -14,6 +14,9 @@
 
 ### 组件
 
+* **RePlugin插件化方案**
+https://github.com/Qihoo360/RePlugin
+
 ### 工具
 
 * **Android多渠道打包**
