@@ -7,54 +7,18 @@
  * [React Native](#react-native)
  * [ES6](#es6)
 
-## Andriod
+## Andriod(https://github.com/TQmobile/TQ-mobile-guide/edit/master/TQ-mobile-guide/category/Android.md)
 
+* Andriod开发指南
 
+## IOS(https://github.com/TQmobile/TQ-mobile-guide/edit/master/TQ-mobile-guide/category/IOS.md)
 
+* IOS开发指南
 
+## React Native(https://github.com/TQmobile/TQ-mobile-guide/edit/master/TQ-mobile-guide/category/react-native.md)
 
+* React Native开发指南
 
+## ES6(https://github.com/TQmobile/TQ-mobile-guide/edit/master/TQ-mobile-guide/category/ES6.md)
 
-
-
-
-
-
-## IOS
-
-
-
-
-
-
-
-
-
-
-## React Native
-
-
-
-
-
-
-
-
-
-
-
-
-## ES6
-
-
-
-
-
-
-
-
-
-
-
-
-
+* ES6开发指南
