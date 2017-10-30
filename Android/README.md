@@ -16,4 +16,7 @@
 
 ### 工具
 
+* **Android多渠道打包**
+http://www.jianshu.com/p/26d25daae321
+
 ### 资源网站
