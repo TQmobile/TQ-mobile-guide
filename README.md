@@ -3,8 +3,9 @@
 
 # 目录
 * [Andriod](https://github.com/TQmobile/TQ-mobile-guide/blob/master/Android)
- * [IOS](https://github.com/TQmobile/TQ-mobile-guide/blob/master/IOS)
- * [React Native](https://github.com/TQmobile/TQ-mobile-guide/blob/master/React-native)
- * [ES6](https://github.com/TQmobile/TQ-mobile-guide/blob/master/ES6)
+* [IOS](https://github.com/TQmobile/TQ-mobile-guide/blob/master/IOS)
+* [React Native](https://github.com/TQmobile/TQ-mobile-guide/blob/master/React-native)
+* [ES6](https://github.com/TQmobile/TQ-mobile-guide/blob/master/ES6)
+* [JAVA](https://github.com/TQmobile/TQ-mobile-guide/blob/master/Java)
 
 
