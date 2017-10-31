@@ -19,6 +19,9 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 
 ### 工具
 
+* **GitHub使用技巧**
+https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md
+
 ### 资源网站
 
 * **各类awesome资源网站**
