@@ -10,7 +10,7 @@
 
 ## 开源APP
 
-### MVP模式
+#### MVP模式
 
 * **Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。**<br>
 https://github.com/BaronZ88/MinimalistWeather
