@@ -24,3 +24,9 @@ http://www.jianshu.com/p/26d25daae321 ，
 http://www.jianshu.com/p/2f2ce33e670f
 
 ### 资源网站
+
+* **Android开源优秀项目**
+https://github.com/Trinea/android-open-project
+
+* **Android比较全面的学习资料**
+https://github.com/Freelander/Android_Data
