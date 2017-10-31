@@ -8,6 +8,18 @@
 
 ## 教程
 
+* **Retrofit开发指南**
+https://github.com/hehonghui/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97
+
+* **Retrofit2教程**
+http://www.jianshu.com/p/308f3c54abdd
+
+* **RxJava 2.x 教程**
+http://www.jianshu.com/p/0cd258eecf60
+
+* **MVP+Retrofit+RxJava网络请求框架教程**
+http://www.jianshu.com/p/308f3c54abdd
+
 ## 开源APP
 
 #### MVP模式
