@@ -7,5 +7,5 @@
 * [React Native](https://github.com/TQmobile/TQ-mobile-guide/blob/master/React-native)
 * [ES6](https://github.com/TQmobile/TQ-mobile-guide/blob/master/ES6)
 * [JAVA](https://github.com/TQmobile/TQ-mobile-guide/blob/master/Java)
-
+* [其他](https://github.com/TQmobile/TQ-mobile-guide/blob/master/Others)
 
