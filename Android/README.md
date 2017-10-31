@@ -15,6 +15,9 @@
 * **Android 平台开源天气 App，采用 MVP、RxJava、Retrofit2、OKHttp3、Dagger2、RetroLambda 等开源库来实现。**<br>
 https://github.com/BaronZ88/MinimalistWeather
 
+* **一个整合了大量主流开源项目的 Android MVP 快速搭建框架**<br>
+https://github.com/JessYanCoding/MVPArms
+
 ## 图书
 
 ## 组件
