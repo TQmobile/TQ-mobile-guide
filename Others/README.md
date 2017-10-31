@@ -20,3 +20,6 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 ### 工具
 
 ### 资源网站
+
+* **各类awesome资源网站**
+https://github.com/sindresorhus/awesome
