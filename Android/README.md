@@ -14,7 +14,7 @@ https://github.com/hehonghui/android-tech-frontier/tree/master/issue-7/Retrofit%
 * **Retrofit2教程**
 http://www.jianshu.com/p/308f3c54abdd
 
-* **Fast Android Networking教程**
+* **Fast Android Networking教程（推荐）**
 https://github.com/amitshekhariitbhu/Fast-Android-Networking
 
 * **okgo教程(对okhhtp的二次封装)**
