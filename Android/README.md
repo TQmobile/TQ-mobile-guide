@@ -39,9 +39,12 @@ https://github.com/Qihoo360/RePlugin
 
 ## 工具
 
-* **Android多渠道打包**
-http://www.jianshu.com/p/26d25daae321 ，
+* **Android多渠道打包**<br>
+http://www.jianshu.com/p/26d25daae321<br>
 http://www.jianshu.com/p/2f2ce33e670f
+
+* **apk反编译之apkide**
+https://www.52pojie.cn/thread-399571-1-1.html
 
 ## 资源网站
 
