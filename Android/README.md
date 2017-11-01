@@ -18,6 +18,9 @@ https://github.com/amitshekhariitbhu/Fast-Android-Networking
 * **okgo教程(对okhhtp的二次封装)**<br>
 https://github.com/jeasonlzy/okhttp-OkGo
 
+* **dragger2教程**<br>
+http://www.jianshu.com/p/39d1df6c877d
+
 * **RxJava 2.x 教程**<br>
 http://www.jianshu.com/p/0cd258eecf60
 
