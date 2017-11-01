@@ -43,6 +43,9 @@ https://github.com/Qihoo360/RePlugin
 http://www.jianshu.com/p/26d25daae321<br>
 http://www.jianshu.com/p/2f2ce33e670f
 
+* **Android Gradle JenKins SVN 自动化打包**<br>
+http://www.jianshu.com/p/763001f3dd17
+
 * **apk反编译之apkide**
 https://www.52pojie.cn/thread-399571-1-1.html
 
