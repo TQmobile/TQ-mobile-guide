@@ -8,23 +8,20 @@
 
 ## 教程
 
-* **Retrofit开发指南**<br>
-https://github.com/hehonghui/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97
-
-* **Retrofit2教程**
+* **Retrofit2教程**<br>
 http://www.jianshu.com/p/308f3c54abdd
 
 * **Fast Android Networking教程（推荐）**<br>
-里面包含rxjava2+mvp，rxjava2+mvvm模式的sample
+里面包含rxjava2+mvp，rxjava2+mvvm模式的sample<br>
 https://github.com/amitshekhariitbhu/Fast-Android-Networking
 
-* **okgo教程(对okhhtp的二次封装)**
+* **okgo教程(对okhhtp的二次封装)**<br>
 https://github.com/jeasonlzy/okhttp-OkGo
 
-* **RxJava 2.x 教程**
+* **RxJava 2.x 教程**<br>
 http://www.jianshu.com/p/0cd258eecf60
 
-* **MVP+Retrofit+RxJava网络请求框架教程**
+* **MVP+Retrofit+RxJava网络请求框架教程**<br>
 http://www.jianshu.com/p/308f3c54abdd
 
 * **各个JSON技术的比较（Jackson，Gson，Fastjson）的对比**<br>
@@ -46,7 +43,7 @@ https://github.com/JessYanCoding/MVPArms
 
 ## 组件
 
-* **RePlugin插件化方案**
+* **RePlugin插件化方案**<br>
 https://github.com/Qihoo360/RePlugin
 
 ## 工具
@@ -58,13 +55,13 @@ http://www.jianshu.com/p/2f2ce33e670f
 * **Android Gradle JenKins SVN 自动化打包**<br>
 http://www.jianshu.com/p/763001f3dd17
 
-* **apk反编译之apkide**
+* **apk反编译之apkide**<br>
 https://www.52pojie.cn/thread-399571-1-1.html
 
 ## 资源网站
 
-* **Android开源优秀项目**
+* **Android开源优秀项目**<br>
 https://github.com/Trinea/android-open-project
 
-* **Android比较全面的学习资料**
+* **Android比较全面的学习资料**<br>
 https://github.com/Freelander/Android_Data
