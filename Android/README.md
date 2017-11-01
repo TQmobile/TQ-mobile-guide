@@ -32,6 +32,9 @@ http://www.jianshu.com/p/308f3c54abdd
 http://blog.csdn.net/xiaoke815/article/details/52920405<br>
 http://blog.csdn.net/accountwcx/article/details/50252657
 
+* **android第三方数据库greendao**<br>
+https://github.com/greenrobot/greenDAO
+
 ## 开源APP
 
 #### MVP模式
