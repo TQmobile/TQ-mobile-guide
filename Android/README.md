@@ -8,7 +8,7 @@
 
 ## 教程
 
-* **Retrofit开发指南**
+* **Retrofit开发指南**<br>
 https://github.com/hehonghui/android-tech-frontier/tree/master/issue-7/Retrofit%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97
 
 * **Retrofit2教程**
@@ -25,6 +25,11 @@ http://www.jianshu.com/p/0cd258eecf60
 
 * **MVP+Retrofit+RxJava网络请求框架教程**
 http://www.jianshu.com/p/308f3c54abdd
+
+* **各个JSON技术的比较（Jackson，Gson，Fastjson）的对比**<br>
+总结Jackson最快但是有依赖且不稳定，Gson较慢无依赖且最稳定，Fastjson较慢无依赖且不稳定
+http://blog.csdn.net/xiaoke815/article/details/52920405<br>
+http://blog.csdn.net/accountwcx/article/details/50252657
 
 ## 开源APP
 
