@@ -53,8 +53,9 @@ https://github.com/JessYanCoding/MVPArms
 
 #### RxJava
 
-* **RxJava常用的方式的例子**<br>
-https://github.com/rengwuxian/RxJavaSamples
+* **RxJava2例子**<br>
+https://github.com/rengwuxian/RxJavaSamples<br>
+https://github.com/nanchen2251/RxJava2Examples
 
 ## 图书
 
