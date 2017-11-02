@@ -24,11 +24,17 @@ http://www.jianshu.com/p/39d1df6c877d
 * **RxJava 2.x 教程**<br>
 http://www.jianshu.com/p/0cd258eecf60
 
+* **RxBinding教程**<br>
+https://github.com/JakeWharton/RxBinding
+
+* **RxBus教程**<br>
+https://github.com/AndroidKnife/RxBus
+
 * **MVP+Retrofit+RxJava网络请求框架教程**<br>
 http://www.jianshu.com/p/308f3c54abdd
 
 * **各个JSON技术的比较（Jackson，Gson，Fastjson）的对比**<br>
-总结Jackson最快但是有依赖且不稳定，Gson较慢无依赖且最稳定，Fastjson较慢无依赖且不稳定
+总结Jackson最快但是有依赖且不稳定，Gson较慢无依赖且最稳定，Fastjson较慢无依赖且不稳定<br>
 http://blog.csdn.net/xiaoke815/article/details/52920405<br>
 http://blog.csdn.net/accountwcx/article/details/50252657
 
