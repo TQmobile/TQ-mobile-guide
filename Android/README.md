@@ -51,6 +51,11 @@ https://github.com/BaronZ88/MinimalistWeather
 * **一个整合了大量主流开源项目的 Android MVP 快速搭建框架**<br>
 https://github.com/JessYanCoding/MVPArms
 
+#### RxJava
+
+* **RxJava常用的方式的例子**<br>
+https://github.com/rengwuxian/RxJavaSamples
+
 ## 图书
 
 ## 组件
