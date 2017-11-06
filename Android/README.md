@@ -41,6 +41,10 @@ http://blog.csdn.net/accountwcx/article/details/50252657
 * **android第三方数据库greendao**<br>
 https://github.com/greenrobot/greenDAO
 
+* **让Android动画实现更简单**<br>
+https://github.com/airbnb/lottie-android
+http://www.jianshu.com/p/cae606f45c0b
+
 ## 开源APP
 
 #### MVP模式
