@@ -87,3 +87,6 @@ https://github.com/Trinea/android-open-project
 
 * **Android比较全面的学习资料**<br>
 https://github.com/Freelander/Android_Data
+
+* **Android优秀的音视频播放框架**<br>
+http://blog.csdn.net/androidstarjack/article/details/68954614?locationNum=9&fps=1
