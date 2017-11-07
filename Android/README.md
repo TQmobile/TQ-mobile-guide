@@ -30,9 +30,6 @@ https://github.com/JakeWharton/RxBinding
 * **RxBus教程**<br>
 https://github.com/AndroidKnife/RxBus
 
-* **MVP+Retrofit+RxJava网络请求框架教程**<br>
-http://www.jianshu.com/p/308f3c54abdd
-
 * **各个JSON技术的比较（Jackson，Gson，Fastjson）的对比**<br>
 总结Jackson最快但是有依赖且不稳定，Gson较慢无依赖且最稳定，Fastjson较慢无依赖且不稳定<br>
 http://blog.csdn.net/xiaoke815/article/details/52920405<br>
@@ -46,6 +43,9 @@ https://github.com/airbnb/lottie-android<br>
 http://www.jianshu.com/p/cae606f45c0b
 
 ## 开源APP
+
+* **Google官方例子（强烈推荐）**<br>
+https://github.com/googlesamples/android-architecture
 
 #### MVP模式
 
