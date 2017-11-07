@@ -63,6 +63,10 @@ https://github.com/nanchen2251/RxJava2Examples
 
 ## 图书
 
+* **gradle3.0.0的变化**<br>
+https://developer.android.com/studio/build/gradle-plugin-3-0-0-migration.html<br>
+http://blog.csdn.net/ncuboy045wsq/article/details/73521856
+
 ## 组件
 
 * **RePlugin插件化方案**<br>
