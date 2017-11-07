@@ -45,6 +45,7 @@ http://www.jianshu.com/p/cae606f45c0b
 ## 开源APP
 
 * **Google官方例子（强烈推荐）**<br>
+包含rxjava、mvp模式、mvvm模式等<br>
 https://github.com/googlesamples/android-architecture
 
 #### MVP模式
