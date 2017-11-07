@@ -3,6 +3,7 @@
 * [开源APP](#开源app)
 * [图书](#图书)
 * [组件](#组件)
+* [指令集](https://github.com/TQmobile/TQ-mobile-guide/blob/master/React-native/command)
 
 ## 教程
 
@@ -35,4 +36,6 @@ http://cn.redux.js.org/docs/introduction/Ecosystem.html
 
 * **mobx指南**
 https://suprise.gitbooks.io/mobx-cn/content/fp.html
+
+
 
