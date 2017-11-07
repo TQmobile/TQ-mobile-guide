@@ -1,4 +1,5 @@
-#指令集
+# 指令集
+与react-native相关的指令集
 
 npm install -g npm  			          npm自升级<br>
 npm install -g react-native-cli  	  安装react-native<br>
