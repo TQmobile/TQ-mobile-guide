@@ -6,6 +6,9 @@
 
 ## 教程
 
+* **java同步详解**<br>
+http://blog.csdn.net/yangwenxue_admin/article/details/44904457
+
 ## 开源APP
 
 ## 图书
