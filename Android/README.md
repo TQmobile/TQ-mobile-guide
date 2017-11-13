@@ -36,7 +36,8 @@ http://blog.csdn.net/xiaoke815/article/details/52920405<br>
 http://blog.csdn.net/accountwcx/article/details/50252657
 
 * **android第三方数据库greendao**<br>
-https://github.com/greenrobot/greenDAO
+https://github.com/greenrobot/greenDAO<br>
+http://www.jianshu.com/p/4986100eff90
 
 * **Lottie让Android动画实现更简单**<br>
 https://github.com/airbnb/lottie-android<br>
