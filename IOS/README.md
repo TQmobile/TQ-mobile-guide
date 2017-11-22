@@ -26,3 +26,6 @@ https://github.com/numbbbbb/the-swift-programming-language-in-chinese
 
 * **关于ios一些开源应用**<br>
 https://github.com/dkhamsing/open-source-ios-apps
+
+* **awesome-swift**<br>
+https://github.com/matteocrippa/awesome-swift
