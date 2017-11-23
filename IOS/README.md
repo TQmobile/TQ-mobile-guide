@@ -29,3 +29,6 @@ https://github.com/dkhamsing/open-source-ios-apps
 
 * **awesome-swift**<br>
 https://github.com/matteocrippa/awesome-swift
+
+* **swift开源库**<br>
+http://blog.csdn.net/halibobo1998/article/details/50637144
