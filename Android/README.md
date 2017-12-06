@@ -44,7 +44,8 @@ https://github.com/airbnb/lottie-android<br>
 http://www.jianshu.com/p/cae606f45c0b
 
 * **webrtc for android视频通话**<br>
-https://webrtc.org/native-code/android/
+https://webrtc.org/native-code/android<br>
+http://www.cnblogs.com/lingyunhu/tag/webrtc%20android%20ios/default.html?page=1
 
 ## 开源APP
 
