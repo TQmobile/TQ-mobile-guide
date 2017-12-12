@@ -16,13 +16,13 @@
 ## 四 配置环境
      1 切换到src目录：
      	cd src
-     2 安装编译需要的软件及配置：执行下面指令时建议关闭vpn会比较快
-     	/build/install-build-deps.sh
+     2 安装编译需要的软件及配置：执行下面指令时建议关闭vpn会比较快
+     	/build/install-build-deps.sh
      	/build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行），
      3 建立关联：gclient runhooks
      4 配置环境变量：. build/android/envsetup.sh
      
-## 四 编译源码
+## 五 编译源码
      1 创建工程：gn gen out/Debug --args='target_os="android" target_cpu="arm"'
      2 编辑工程：ninja -C out/Debug
 
