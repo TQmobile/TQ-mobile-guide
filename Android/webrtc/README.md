@@ -13,7 +13,9 @@
 	fetch --nohooks webrtc_android
 	gclient sync
      5 切换到src目录：cd src
-     6 安装编译需要的软件及配置 ：/build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行）
+     6 安装编译需要的软件及配置 ：
+     	/build/install-build-deps.sh
+     	/build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行）
      7 建立关联：gclient runhooks
      8 配置环境变量：. build/android/envsetup.sh
 ## 四 编译源码
