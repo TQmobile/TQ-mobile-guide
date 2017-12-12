@@ -18,6 +18,7 @@
      	/build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行）
      7 建立关联：gclient runhooks
      8 配置环境变量：. build/android/envsetup.sh
+     
 ## 四 编译源码
      1 创建工程：gn gen out/Debug --args='target_os="android" target_cpu="arm"'
      2 编辑工程：ninja -C out/Debug
