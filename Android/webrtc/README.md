@@ -12,8 +12,9 @@
      4 下载源码：先创建一个目录比如webrtc，用于存放源码：mkdir webrtc 切换到webrtc目录下：cd webrtc 现在当前目录到了webrtc下，然后执行：
 	fetch --nohooks webrtc_android
 	gclient sync
-     5 切换到src目录：cd src
-     6 安装编译需要的软件及配置 ：执行下面指令时建议关闭vpn会比较快，
+     5 切换到src目录：
+     	cd src
+     6 安装编译需要的软件及配置 ：执行下面指令时建议关闭vpn会比较快 ，
      	/build/install-build-deps.sh
      	/build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行），
      7 建立关联：gclient runhooks
