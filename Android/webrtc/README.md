@@ -1,6 +1,6 @@
 ## 一 环境配置
      win10 + 虚拟机VMWare + ubuntu 16.03 LTS  
-     android的编译必须要在linux下
+     android的编译必须要在linux 64位操作系统下
 
 ## 二 基础软件安装
     安装git就行：sudo apt-get install git
@@ -19,7 +19,6 @@
 1 切换到src目录：
    cd src
 2 安装编译需要的软件及配置：执行下面指令时建议关闭vpn会比较快
-   /build/install-build-deps.sh
    /build/install-build-deps-android.sh（中途会出现安装ttf-xxx-xxx的授权界面，用tab键选中ok，点回车就行），
 3 建立关联：gclient runhooks
 4 配置环境变量：. build/android/envsetup.sh
