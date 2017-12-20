@@ -29,3 +29,17 @@
 
 
 详细说明请参考官网：https://webrtc.org/native-code/android
+
+
+## Q&A
+
+1、虚拟机如何全屏拉伸？
+A：虚拟机（M）-》安装VMware tool，安装完成后查看（v）-》自动调整大小-》拉伸客户机
+
+2、虚拟机与主机间互传文件？
+A：主机下载安装FileZilla软件，获取虚拟机ip（虚拟机命令行ifconfig），输入主机，账号，密码（系统登陆账号名和密码）
+   虚拟机命令行输入sudo apt-get install openssh-server安装ssh server
+   FileZilla中点击连接即可以查看虚拟机中的文件
+   
+3、如何更新代码？
+A：进入webrtc/src目录，命令行git fetch，然后gclient sync
