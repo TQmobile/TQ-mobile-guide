@@ -1,6 +1,8 @@
 ## 一 环境配置
-     win10 + 虚拟机VMWare + ubuntu 16.03 LTS  
-     android的编译必须要在linux 64位操作系统下
+```
+win10 + 虚拟机VMWare + ubuntu 16.03 LTS  
+android的编译必须要在linux 64位操作系统下
+```
 
 ## 二 基础软件安装
     安装git就行：sudo apt-get install git
@@ -31,15 +33,21 @@
 详细说明请参考官网：https://webrtc.org/native-code/android
 
 
-## Q&A
+## FAQ
 
-1、虚拟机如何全屏拉伸？</br>
-A：虚拟机（M）-》安装VMware tool，安装完成后查看（v）-》自动调整大小-》拉伸客户机
+1、虚拟机无法共享主机VPN？
+虚拟机的网络适配器中选择NAT模式连接
 
-2、虚拟机与主机间互传文件？</br>
-A：主机下载安装FileZilla软件，获取虚拟机ip（虚拟机命令行ifconfig），输入主机，账号，密码（系统登陆账号名和密码）
+2、虚拟机如何全屏拉伸？</br>
+虚拟机（M）-》安装VMware tool，安装完成后查看（v）-》自动调整大小-》拉伸客户机
+
+3、虚拟机与主机间互传文件？</br>
+主机下载安装FileZilla软件，获取虚拟机ip（虚拟机命令行ifconfig），输入主机，账号，密码（系统登陆账号名和密码）
    虚拟机命令行输入sudo apt-get install openssh-server安装ssh server
    FileZilla中点击连接即可以查看虚拟机中的文件
    
-3、如何更新代码？</br>
-A：进入webrtc/src目录，命令行git fetch，然后gclient sync
+4、如何更新代码？</br>
+进入webrtc/src目录，命令行git fetch，然后gclient sync
+
+5、编译速度太慢？
+尽可能给虚拟机分配多一点的处理器，一般为4
