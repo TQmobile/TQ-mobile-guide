@@ -32,6 +32,13 @@ android的编译必须要在linux 64位操作系统下
 
 详细说明请参考官网：https://webrtc.org/native-code/android
 
+## 其他
+https://tech.appear.in/2015/05/25/Introduction-to-WebRTC-on-Android</br>
+一个对webrtc编译好的maven库</br>
+https://github.com/pchab/AndroidRTC</br>
+依赖上面的maven库开发出来的android demo工程</br>
+https://github.com/pchab/ProjectRTC</br>
+ProjectRTC是一个WebRTC的PC端项目，实现了WebRTC的服务器功能和PC客户端功能，拿来当服务器用
 
 ## FAQ
 
