@@ -38,7 +38,9 @@ https://tech.appear.in/2015/05/25/Introduction-to-WebRTC-on-Android</br>
 https://github.com/pchab/AndroidRTC</br>
 依赖上面的maven库开发出来的android demo工程</br>
 https://github.com/pchab/ProjectRTC</br>
-ProjectRTC是一个WebRTC的PC端项目，实现了WebRTC的服务器功能和PC客户端功能，拿来当服务器用
+ProjectRTC是一个WebRTC的PC端项目，实现了WebRTC的服务器功能和PC客户端功能，拿来当服务器用</br>
+http://blog.csdn.net/youmingyu/article/details/53192714</br>
+中文说明
 
 ## FAQ
 
