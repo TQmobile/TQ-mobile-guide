@@ -46,7 +46,8 @@ android的编译必须要在linux 64位操作系统下
 
 * **webrtc服务器搭建，包含房间服务器（Room Server）、信令服务器（Signaling Server）、防火墙打洞服务器（STUN/TURN/ICE Server）**
 	https://www.jianshu.com/p/7fd28c26a2cb</br>
-	http://blog.csdn.net/tifentan/article/details/53462535
+	http://blog.csdn.net/tifentan/article/details/53462535</br>
+	http://blog.csdn.net/Stone_OverLooking/article/details/77197204
 
 ## FAQ
 
