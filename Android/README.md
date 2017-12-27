@@ -43,7 +43,7 @@ http://www.jianshu.com/p/4986100eff90
 https://github.com/airbnb/lottie-android<br>
 http://www.jianshu.com/p/cae606f45c0b
 
-* [webrtc视频通话](https://github.com/TQmobile/WebRTCDemo/blob/master)
+* [webrtc视频通话](https://github.com/TQmobile/WebRTCDemo/tree/master)
 
 ## 开源APP
 
