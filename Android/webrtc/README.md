@@ -36,18 +36,19 @@ android的编译必须要在linux 64位操作系统下
 
 * 一个第三方封装webrtc的示例，包含android sample和pc端服务器
 
-https://tech.appear.in/2015/05/25/Introduction-to-WebRTC-on-Android</br>
-一个对webrtc编译好的maven库</br>
-https://github.com/pchab/AndroidRTC</br>
-依赖上面的maven库开发出来的android demo工程</br>
-https://github.com/pchab/ProjectRTC</br>
-ProjectRTC是一个WebRTC的PC端项目，实现了WebRTC的服务器功能和PC客户端功能，拿来当服务器用</br>
-http://blog.csdn.net/youmingyu/article/details/53192714</br>
+	https://tech.appear.in/2015/05/25/Introduction-to-WebRTC-on-Android</br>
+	一个对webrtc编译好的maven库</br>
+	https://github.com/pchab/AndroidRTC</br>
+	依赖上面的maven库开发出来的android demo工程</br>
+	https://github.com/pchab/ProjectRTC</br>
+	ProjectRTC是一个WebRTC的PC端项目，实现了WebRTC的服务器功能和PC客户端功能，拿来当服务器用</br>
+	http://blog.csdn.net/youmingyu/article/details/53192714</br>
 中文说明
 
 * webrtc服务器搭建，包含房间服务器（Room Server）、信令服务器（Signaling Server）、防火墙打洞服务器（STUN/TURN/ICE Server）
-https://www.jianshu.com/p/7fd28c26a2cb</br>
-http://blog.csdn.net/tifentan/article/details/53462535
+
+	https://www.jianshu.com/p/7fd28c26a2cb</br>
+	http://blog.csdn.net/tifentan/article/details/53462535
 
 ## FAQ
 
