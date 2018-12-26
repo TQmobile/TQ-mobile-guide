@@ -7,6 +7,8 @@
 * [资源网站](#资源网站)
 
 ### 教程
+* **一套遵循 React 语法规范的 多端开发 解决方案-Taro**<br>
+https://nervjs.github.io/taro/docs/README.html
 
 ### 开源APP
 
